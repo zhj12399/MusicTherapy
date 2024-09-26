@@ -4,5 +4,3 @@ We enter the field of large-scale modelling in medical synthesis by proposing a 
 
 <img src="files/2.gif" alt="evolution" style="max-width:none;">
 <p class="caption">Heart Sound</p>
-
-{% include audio_player.html filename="heart_sound_dm.mp3" %}
