@@ -1,5 +1,5 @@
 # Generative Music
-## Happy
+## Emotion Recognition: Positive
 > __Some Samples__ :
 
 | Num |                         Sample                         |
@@ -14,7 +14,7 @@
 |  8  | {% include audio_player.html filename="Happy/8.wav" %} |
 |  9  | {% include audio_player.html filename="Happy/9.wav" %} |
 
-## Sad
+## Emotion Recognition: Negative
 > __Some Samples__ :
 
 | Num |                        Sample                        |
